@@ -8,3 +8,4 @@
 
 Future Scope:
 To add analytics with matplotlib.
+Integration with Mysql database.
