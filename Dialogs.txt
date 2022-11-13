@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------------
+| Hello! This is an accounting software made by KKO.                           |   
+| Would you like to see the menu? Press 'y' to continue                        |
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+| You can do the following:                                                    |
+| 1) Create a new table.                                                       |   
+| 2) Retrieve data from a previous table.                                      |
+| 3) Exit.                                                                     |
+--------------------------------------------------------------------------------
+Please type your choice: 
