@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-| Hello! This is an accounting software made by KKO.                           |   
+| Hello! This is an accounting software made by hiSh1n.                        |   
 | Would you like to see the menu? Press 'y' to continue                        |
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
